@@ -1,4 +1,6 @@
 
+# FAQ-Component-Meteor
+
 Using Accordian UI module from Foundation for front end
 Using Houston Admin Panel for the application.
 
@@ -12,5 +14,3 @@ Collection 2 -- aldeed:collection2 (schemas)
 
 
 
-
-# FAQ-Component-Meteor
